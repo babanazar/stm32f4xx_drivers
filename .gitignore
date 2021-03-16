@@ -8,3 +8,5 @@
 *.su
 
 .settings/
+
+Debug/
